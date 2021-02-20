@@ -36,3 +36,5 @@ FAILED testmodule/test.py::test_add - assert -2 == 22
 ```
 
 This will generate a `report.html` for you.
+
+![HTML report example](https://i.stack.imgur.com/90SvZ.png)
